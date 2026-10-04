@@ -42,9 +42,10 @@
   - [ ] Configure SiK for high baud rate that is reliable
   - [ ] How to use ELRS for telemetry into QGC (alternative to SiK. Rationale: robust to RF noise)
 
-
-
 ## Software development
+
+- Deep dive into SIH & Hawkeye: https://docs.px4.io/main/en/sim_sih/
+- ???
 
 ### Familiarisation
 
